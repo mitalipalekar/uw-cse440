@@ -94,9 +94,9 @@ p {
 	overflow: hidden;
 }
 
-.third-section h4 {
+.second-section h4 {
 	margin-top: 60px;
-	color: #fff;
+	color: #415b90;
 	font-size: 24px;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -152,7 +152,7 @@ p {
 =======================*/
 
 .fourth-section {
-	background-image: url(../img/fourth-section-bg.png);
+
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
@@ -164,33 +164,33 @@ p {
 	padding-right: 0px;
 }
 
-.fourth-section .portfolio-item img {
+.fivth-section .portfolio-item img {
 	width: 100%;
 	overflow: hidden;
 }
 
-.fourth-section .first-item .text {
+.fivth-section .first-item .text {
 	background-color: #f4f4f4;
 }
 
-.fourth-section .second-item .text {
+.fivth-section .second-item .text {
 	background-color: #eaeaea;
 }
 
-.fourth-section .third-item .text {
+.fivth-section .third-item .text {
 	background-color: #dedede;
 }
 
-.fourth-section .portfolio-item .text {
+.fivth-section .portfolio-item .text {
 	padding: 20px 25px;
 }
 
-.fourth-section .portfolio-item .text span {
+.fivth-section .portfolio-item .text span {
 	font-size: 13px;
 	color: #7a7a7a;
 }
 
-.fourth-section .portfolio-item .text h4 {
+.fivth-section .portfolio-item .text h4 {
 	font-size: 17px;
 	color: #343434;
 	font-weight: 700;
