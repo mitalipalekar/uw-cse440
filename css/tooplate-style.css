@@ -259,8 +259,8 @@ p {
 	text-align: center;
 }
 
-.sixth-section .service-item .icon img {
-	max-width: 100%;
+.sixth-section .service-item .profiles img {
+	width: 200px;
 	overflow: hidden;
 }
 
