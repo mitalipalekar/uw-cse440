@@ -105,10 +105,11 @@ p {
 	background-size: cover;
 	width: 100%;
 	background-repeat: no-repeat;
-	padding: 30% 0px;
+	padding: 20% 0px;
 }
 
 .third-section .left-image img {
+	padding-top: 60px;
 	width: 100%;
 	overflow: hidden;
 	text-align: center;
@@ -134,6 +135,7 @@ p {
 }
 
 .third-section p {
+	color: #fff;
 	margin-top: 15px;
 }
 
